@@ -61,8 +61,6 @@ img{
     height: auto;
     position: absolute;
     bottom: 0;
-    height: auto;
-    background-color: skyblue;
 }
 
 
@@ -71,6 +69,7 @@ img{
     margin-right: auto;
     margin-left: auto;
     margin-top: 1em;
+    margin-bottom: 3em;
     
 }
 
@@ -96,6 +95,19 @@ img{
     display: inline-block;
     float: right;
     margin-right: 5em;
+    
+}
+
+#altA{
+    width: 275px;
+    height: 250px;
+}
+
+.instruction{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     
 }
 
